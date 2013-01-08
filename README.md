@@ -7,7 +7,7 @@ Make sure you have `exuberant-ctags` installed for using vim-ctags.
 ## One Line Installation:
 
     bash <(curl -s https://raw.github.com/agen2008/vimfiles/master/install.sh)
-    curl https://github.com/agen2008/vimfiles/master/install.sh |bash
+    curl https://raw.github.com/agen2008/vimfiles/master/install.sh | bash
 
 ## Old School Installation:
 
