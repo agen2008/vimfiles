@@ -12,7 +12,7 @@ Make sure you have `exuberant-ctags` installed for using vim-ctags.
 ## Old School Installation:
 
     # Checkout configuration files
-    git clone git://github.com/wongyouth/vimfiles ~/vimfiles
+    git clone git://github.com/agen2008/vimfiles ~/vimfiles
 
     # Create symlinks
     ln -s ~/vimfiles ~/.vim
